@@ -1,7 +1,3 @@
-# ============================================
-# WEEK 1: CLI TASK MANAGER
-# SkillAudit.ai Python Development Internship
-# ============================================
 
 from manager import TaskManager
 
